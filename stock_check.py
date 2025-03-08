@@ -11,7 +11,7 @@ import subprocess
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Your phone number or Apple ID to receive iMessages
-YOUR_PHONE_NUMBER = '7343084420'  # Replace with your iMessage-enabled number or Apple ID email
+YOUR_PHONE_NUMBER = '123456789'  # Replace with your iMessage-enabled number or Apple ID email
 
 # Price limits
 PRICE_LIMITS = {
